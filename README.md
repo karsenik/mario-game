@@ -1,7 +1,8 @@
 # Super Mario Bros. Clone (Java)
 
 A 2D platformer inspired by *Super Mario Bros.*, built in Java with object-oriented design and the [StdDraw](https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html) library. Run, jump, avoid enemies, collect coins, use portals and reach the exit pipe across four levels.
- 🎥 [Watch the gameplay video](https://youtu.be/1MdcnjWWnR0?si=E9BgWNEj3sanbNVo) 
+
+🎥 [Watch the gameplay video](https://youtu.be/1MdcnjWWnR0?si=E9BgWNEj3sanbNVo) 
 
 ## Features
 
